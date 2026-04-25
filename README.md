@@ -27,4 +27,6 @@ Identity: Custom names, descriptions, and icon URLs fetched instantly from your 
 
 Automation: Pre-set your spam messages and roles for one-touch execution.
 
+# 👤 Developer 
+
 Developed by: @0devnullx
