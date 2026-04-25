@@ -11,9 +11,7 @@ Selfbotting is against Discord's Terms of Service. Using this software carries a
 
 Elite Performance: Optimized with httpx and asyncio for rapid-fire execution without system lag.
 
-Encrypted Access: Features a multi-key gateway system supporting 1337 and authorized developer bypasses.
-
-Direct Pulse Technology: High-speed spam capabilities that hit Discord endpoints directly—no webhooks required.
+Direct Spam Technology: High-speed spam capabilities that hit Discord endpoints directly—no webhooks required.
 
 Minimalist UI: A refined, stationary terminal experience that clears the clutter after every command.
 
