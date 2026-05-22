@@ -1,7 +1,7 @@
-# 🛸 DevnullSelfbotV3
+# 🛸 0nullSelfbotV3
 Precision Automation. Total Authority.
 
-DevnullSelfbotV3 is a high-performance Discord utility designed for those who require absolute control. Engineered with a minimalist interface and built on a high-speed asynchronous architecture, it delivers unmatched efficiency in server management and automation.
+0nullSelfbotV3 is a high-performance Discord utility designed for those who require absolute control. Engineered with a minimalist interface and built on a high-speed asynchronous architecture, it delivers unmatched efficiency in server management and automation.
 
 # ⚠️ Disclaimer
 
@@ -29,4 +29,4 @@ Automation: Pre-set your spam messages and roles for one-touch execution.
 
 # 👤 Developer 
 
-Developed by: @0devnullx
+Developed by: @0tnull
