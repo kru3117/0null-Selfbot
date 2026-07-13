@@ -5,7 +5,7 @@ Precision Automation. Total Authority.
 
 # ⚠️ Disclaimer
 
-Selfbotting is against Discord's Terms of Service. Using this software carries a risk of account suspension or permanent banning. Devnull and its contributors are not responsible for any actions taken against your account. Use with caution.
+Selfbotting is against Discord's Terms of Service. Using this software carries a risk of account suspension or permanent banning. @masalimuot and its contributors are not responsible for any actions taken against your account. Use with caution.
 
 # ⚡ Features
 
